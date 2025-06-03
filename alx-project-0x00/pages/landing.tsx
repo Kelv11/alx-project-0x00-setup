@@ -44,12 +44,12 @@ const Landing: React.FC = () => {
             shape="rounded-md"
             styles="bg-red-500 hover:bg-red-600"
           />
-          <Button
-            title="Another Custom"
-            size="large"
-            shape="rounded-full"
-            styles="bg-green-500 hover:bg-green-600"
-          />
+         <Button
+  title="Rounded LG"
+  size="medium"
+  shape="rounded-lg"
+  styles="bg-purple-500"
+/>
         </div>
       </div>
 
