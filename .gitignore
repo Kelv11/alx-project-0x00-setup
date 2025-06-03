@@ -40,6 +40,4 @@ yarn-error.log*
 *.tsbuildinfo
 next-env.d.ts
 
-# Ignore parent directory files and junk
-../*
-!.gitignore
+
